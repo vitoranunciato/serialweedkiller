@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Blog
-subtitle: Newer posts
+title: Newer posts
+subtitle: Always trying to publish new posts
 
 content:
   # Page type to display. E.g. post, talk, publication...
