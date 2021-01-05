@@ -4,7 +4,7 @@ name: Vitor M. Anunciato
 
 # Username (this should match the folder name)
 authors:
-- anunciato
+- Anunciato
 
 # Is this the primary user of the site?
 superuser: true

@@ -22,7 +22,7 @@
   
 [[main]]
   name = "Author"
-  url = "#about"
+  url = "#authors"
   parent = "abm"
   weight = 2
   
