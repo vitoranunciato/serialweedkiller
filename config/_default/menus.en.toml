@@ -13,38 +13,15 @@
   url = "weed/"
   identifier = "weed"
   weight = 20
-  
-[[main]]
-  name = "About me"
-  url = ""
-  identifier = "abm"
-  weight = 70
-  
-[[main]]
-  name = "My CV"
-  url = "files/Anunciato_CV.pdf"
-  parent = "abm"
-  weight = 1
-  
-[[main]]
-  name = "Author"
-  url = "#authors/Anunciato"
-  parent = "abm"
-  weight = 2
-  
+
 [[main]]
   name = "Talks"
   url = "#event"
-  weight = 40
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
-    name = "CV"
+    name = "My CV"
     url = "media/Anunciato_CV.pdf"
-    weight = 70
+    weight = 40

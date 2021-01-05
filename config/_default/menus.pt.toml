@@ -15,36 +15,13 @@
   weight = 20
   
 [[main]]
-  name = "Sobre mim"
-  url = "about-me/"
-  identifier = "author"
-  weight = 70
-  
-[[main]]
-  name = "Meu CV"
-  url = "media/Anunciato_CV.pdf"
-  parent = "author"
-  weight = 1
-  
-[[main]]
-  name = "Autor"
-  url = "#about"
-  parent = "author"
-  weight = 2
-  
-[[main]]
   name = "Talks"
   url = "#event"
-  weight = 40
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/resume.pdf"
-#    weight = 70
+ [[main]]
+    name = "Meu CV"
+    url = "media/Anunciato_CV.pdf"
+    weight = 40
