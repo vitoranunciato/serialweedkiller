@@ -11,7 +11,10 @@
 [pt]
   languageCode = "pt-br"
   contentDir = "content/pt"
-  title = "Pegue o seu costal e venha comigo..."
+    title = "Serial Weed Killer"
+  [pt.params]
+  	description = "Pegue seu costal e vem comigo..."
+	address = {region = "Sao Paulo", country = "Brazil", country_code = "BR"}
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
