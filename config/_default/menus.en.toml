@@ -6,25 +6,25 @@
 [[main]]
   name = "Blog"
   url = "#posts"
-  weight = 20
+  weight = 10
   
 [[main]]
   name = "About me"
   url = "about/"
   identifier = "author"
-  weight = 6
+  weight = 60
   
 [[main]]
   name = "My CV"
   url = "about/my-cv"
   parent = "author"
-  weight = 2
+  weight = 1
   
 [[main]]
   name = "Author"
   url = "#about"
   parent = "author"
-  weight = 1
+  weight = 2
   
 [[main]]
   name = "Projects"
