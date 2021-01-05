@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 10
 
-title: Recent Posts
-subtitle:
+title: Blog
+subtitle: Novos posts
 
 content:
   # Page type to display. E.g. post, talk, publication...

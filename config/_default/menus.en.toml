@@ -5,25 +5,25 @@
 
 [[main]]
   name = "Blog"
-  url = "#post"
+  url = "#posts"
   weight = 10
   
 [[main]]
   name = "About me"
   url = "about-me/"
-  identifier = "author"
+  identifier = "abm"
   weight = 70
   
 [[main]]
   name = "My CV"
   url = "files/Anunciato_CV.pdf"
-  parent = "author"
+  parent = "abm"
   weight = 1
   
 [[main]]
   name = "Author"
   url = "#about"
-  parent = "author"
+  parent = "abm"
   weight = 2
   
 [[main]]
