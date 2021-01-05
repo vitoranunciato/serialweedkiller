@@ -5,7 +5,7 @@ image:
   placement: 3
 markup: mmark
 authors:
-- admin
+- Anunciato
 tags: [Amaranthaceae, weed, identification]
 categories: [weed id]
 date: "2019-02-05T00:00:00Z"
