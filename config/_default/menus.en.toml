@@ -9,6 +9,12 @@
   weight = 10
   
 [[main]]
+  name = "Weeds ID"
+  url = "weed/"
+  identifier = "weed"
+  weight = 70
+  
+[[main]]
   name = "About me"
   url = ""
   identifier = "abm"
