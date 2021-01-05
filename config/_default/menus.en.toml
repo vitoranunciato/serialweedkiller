@@ -12,11 +12,11 @@
   name = "About me"
   url = "about/"
   identifier = "author"
-  weight = 60
+  weight = 70
   
 [[main]]
   name = "My CV"
-  url = "about/my-cv"
+  url = "files/Anunciato_CV.pdf"
   parent = "author"
   weight = 1
   
