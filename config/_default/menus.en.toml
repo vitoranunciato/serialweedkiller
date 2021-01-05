@@ -10,7 +10,7 @@
   
 [[main]]
   name = "About me"
-  url = "about-me/"
+  url = ""
   identifier = "abm"
   weight = 70
   
