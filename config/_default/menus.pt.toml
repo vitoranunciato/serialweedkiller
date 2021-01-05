@@ -22,7 +22,7 @@
   
 [[main]]
   name = "Meu CV"
-  url = "files/Anunciato_CV.pdf"
+  url = "media/Anunciato_CV.pdf"
   parent = "author"
   weight = 1
   
