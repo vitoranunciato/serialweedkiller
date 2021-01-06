@@ -24,4 +24,17 @@
  [[main]]
     name = "Meu CV"
     url = "media/Anunciato_CV.pdf"
+    identifier = "meu cv"
     weight = 40
+    
+ [[main]]
+  name = "Posters and oral presentation"
+  url = "media/Anunciato_PresentationPosters"
+  parent = "meu cv"
+  weight = 1
+  
+ [[main]]
+  name = "Extension publications"
+  url = "media/Anunciato_extension"
+  parent = "meu cv"
+  weight = 2
